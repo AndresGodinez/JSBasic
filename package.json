@@ -1,0 +1,17 @@
+{
+  "name": "async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "scripts": {
+    "callback": "node ./src/callbacks/ex.js",
+    "callback:fetch": "node ./src/callbacks/example.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
